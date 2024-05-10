@@ -76,3 +76,13 @@ Streamlit offers an accessible approach to building interactive web applications
 
 I know it sounds as an excuse but I tried my best to submit whatever I have done. Sorry and thank you for the opportunity )
 
+### What could be added to improve the UI/UX and usability?
+**1. Interactive Data Visualization:**
+Graphs and Charts: Integrate plotting libraries like matplotlib or plotly to visualize key metrics extracted from SEC filings (e.g., financial performance over time, sentiment analysis results).
+Word Clouds: Display word clouds to highlight frequently occurring terms in specific sections (e.g., Business Description, Risk Factors) for intuitive understanding.
+**2. User-Defined Analysis Parameters:**
+Dropdowns and Sliders: Implement interactive dropdown menus and sliders to allow users to customize analysis parameters (e.g., number of sentences for text summarization, sentiment analysis thresholds).
+Filtering and Sorting: Enable users to filter and sort extracted data based on specific criteria (e.g., financial metrics, keywords).
+**3. Integration with External APIs:**
+Financial Data APIs: Integrate with external financial data APIs (e.g., stock market data) to enrich analysis and provide real-time insights.
+Natural Language Understanding APIs: Utilize NLU APIs (e.g., Google Cloud NLP, IBM Watson) for advanced text processing and analysis.
