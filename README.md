@@ -59,7 +59,7 @@ The two files, `parse_10K.py` and `GaTech_Sec.ipynb`, serve different purposes a
 `parse_10K.py` and `GaTech_Sec.ipynb` complement each other by providing distinct perspectives and functionalities within the realm of SEC 10-K filings analysis, catering to different user needs and objectives in the field of financial data processing and exploration.
 
 ### What is your code about?
-Incorporating Streamlit with financial analysis tools can provide several actionable insights for users in finance. Below are key insights that can be drawn and their practical applications, along with code snippets to showcase the implementation within a Streamlit app.
+Below are key insights that can be drawn and their practical applications.
 
 1. **Text Summarization for Efficient Analysis** Efficiently summarizes complex financial disclosures for quick analysis and decision-making and saves time and effort by focusing on critical points without reading entire documents.
 2. **Section-specific Text Extraction for Targeted Analysis** Facilitates focused analysis on critical sections of financial disclosures relevant to investment decision-making and extracts key information related to business operations, risks, and management insights.
