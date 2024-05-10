@@ -9,6 +9,7 @@ The US Securities and Exchange Commission (SEC) is responsible for maintaining t
 
 ### TLDR Implementation
 The following shows a high-level implementation that extracts and summarizes Item 1A, Risk Factors from Tesla’s 10-K filing filed in 2020, in 15 sentences.
+
 <img width="767" alt="image" src="https://github.com/KSatwik/GaTech-SEC/assets/76058437/e20cab36-745a-4a58-a2ee-22ad17ea0d5a">
 
 ### Why 2 files parse_10K.py and GaTech_Sec.ipynb? 
