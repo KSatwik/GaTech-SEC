@@ -12,7 +12,7 @@ The following shows a high-level implementation that extracts and summarizes Ite
 
 <img width="767" alt="image" src="https://github.com/KSatwik/GaTech-SEC/assets/76058437/e20cab36-745a-4a58-a2ee-22ad17ea0d5a">
 
-### Why 2 files parse_10K.py and GaTech_Sec.ipynb? 
+### Why 2 files - parse_10K.py & GaTech_Sec.ipynb? 
 The two files, `parse_10K.py` and `GaTech_Sec.ipynb`, serve different purposes and are used in distinct contexts, highlighting different aspects of working with SEC EDGAR 10-K filings.
 
 #### 1. `parse_10K.py`
@@ -66,7 +66,9 @@ Below are key insights that can be drawn and their practical applications.
 3. **Natural Language Processing (NLP) Insights for Enhanced Analysis** Gains insights into trends, sentiments, and relationships within financial text data for informed decision-making and identifies important entities (e.g., companies, financial metrics) and their contextual significance.
 
 ### Where is your frontend or app deployed?
-I chose to use Streamlit to streamline my project and present it professionally, focusing on simplifying the user experience by allowing selection of company tickers via a web interface. However, unexpected personal challenges such as family issues and power outages due to rain hindered my progress. Despite these obstacles, I prioritized completing the backend tasks with thorough documentation. I apologize and appreciate your understanding.
+I chose to use Streamlit to streamline my project and present it professionally, focusing on simplifying the user experience by allowing selection of company tickers via a web interface. 
+
+However, unexpected personal challenges such as family issues and power outages due to rain hindered my progress. Despite these obstacles, I prioritized completing the backend tasks with thorough documentation. I apologize and appreciate your understanding.
 
 ### Why colab and what is the frontend? ( Task 2 )
 Utilizing Google Colab provides a convenient environment for running Python code with access to GPU resources, making it suitable for machine learning and data analysis tasks. 
@@ -77,21 +79,21 @@ Streamlit offers an accessible approach to building interactive web applications
 
 I know it sounds as an excuse but I tried my best to submit whatever I have done. Sorry and thank you for the opportunity )
 
-### What could be added to improve the UI/UX and usability?
+### What could be added to improve the UI/UX and usability in the future?
 **1. Interactive Data Visualization:**
 
-Graphs and Charts: Integrate plotting libraries like matplotlib or plotly to visualize key metrics extracted from SEC filings (e.g., financial performance over time, sentiment analysis results).
+***Graphs and Charts:*** Integrate plotting libraries such as matplotlib or plotly to visualize key metrics extracted from SEC filings (e.g., financial performance over time, sentiment analysis results).
 
-Word Clouds: Display word clouds to highlight frequently occurring terms in specific sections (e.g., Business Description, Risk Factors) for intuitive understanding.
+***Word Clouds:*** Displaying word clouds to highlight frequently occurring terms in specific sections (e.g., Business Description, Risk Factors) for intuitive understanding.
 
 **2. User-Defined Analysis Parameters:**
 
-Dropdowns and Sliders: Implement interactive dropdown menus and sliders to allow users to customize analysis parameters (e.g., number of sentences for text summarization, sentiment analysis thresholds).
+***Dropdowns and Sliders:*** Implementing interactive dropdown menus and sliders which will allow users to customize analysis parameters (e.g., number of sentences for text summarization, sentiment analysis thresholds).
 
-Filtering and Sorting: Enable users to filter and sort extracted data based on specific criteria (e.g., financial metrics, keywords).
+***Filtering and Sorting:*** Enable users to filter and sort extracted data based on specific criteria (e.g., financial metrics, keywords).
 
 **3. Integration with External APIs:**
 
-Financial Data APIs: Integrate with external financial data APIs (e.g., stock market data) to enrich analysis and provide real-time insights.
+***Financial Data APIs:*** Integrate with external financial data APIs (e.g., stock market data) to enrich analysis and provide real-time insights.
 
-Natural Language Understanding APIs: Utilize NLU APIs (e.g., Google Cloud NLP, IBM Watson) for advanced text processing and analysis.
+***Natural Language Understanding APIs:*** Utilize NLU APIs (e.g., Google Cloud NLP, IBM Watson) for advanced text processing and analysis.
